@@ -1,0 +1,22 @@
+{
+  "name": "image_generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedshd/image_generate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedshd/image_generate/issues"
+  },
+  "homepage": "https://github.com/tedshd/image_generate#readme",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
+}
